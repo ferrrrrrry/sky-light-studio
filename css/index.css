@@ -886,7 +886,7 @@ border-radius: 30px;
     padding: 0 0 32px 0; /* Removed side padding to allow full control */
   }
   .block5-content {
-    width: 100%;
+    width: 30%;
     padding: 0 10px; /* Add padding here for content */
     margin-bottom: 24px;
     box-sizing: border-box;
@@ -915,10 +915,12 @@ border-radius: 30px;
     justify-content: center;
   }
   .block5-image img {
+    position: relative;
+    right: 466px;
     border-radius: 20px;
     height: 300px;
     object-fit: cover;
-    width: 100%;
+    width: 34%;
   }
 }
 #one{
