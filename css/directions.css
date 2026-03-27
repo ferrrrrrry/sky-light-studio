@@ -1,0 +1,661 @@
+.derections-info__title {
+  width: 256;
+  height: 47;
+  top: 136px;
+  left: 592px;
+  opacity: 1;
+  font-family: Raleway;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 40px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  font-variant: small-caps;
+  color: #2b323a;
+  margin-top: 56px;
+  margin-bottom: 56px;
+}
+
+.item__big {
+  width: 542px;
+  height: 542px;
+  opacity: 1;
+  background-color: #9bb8cb;
+  z-index: -1;
+  border-radius: 30px;
+  padding-left: 25px;
+}
+.item__small {
+  width: 264px;
+  height: 239px;
+  left: 279px;
+  opacity: 1;
+  border-radius: 30px;
+  padding-top: 55px;
+  padding-right: 48px;
+  padding-bottom: 55px;
+  padding-left: 48px;
+  gap: 10px;
+  background-color: #b1c1b4;
+  position: relative;
+  border: 7px solid #eae2dc;
+  top: -262px;
+}
+
+.item-big__title {
+  width: 204;
+  height: 28;
+  top: 295px;
+  opacity: 1;
+  font-family: Raleway;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 24px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  position: relative;
+}
+
+.item-big__text {
+  width: 486;
+  height: 196;
+  opacity: 1;
+  font-family: Raleway;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 24px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  position: relative;
+  top: 295px;
+}
+
+.item-small__text {
+  width: 168;
+  height: 56;
+  opacity: 1;
+  font-family: Raleway;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 24px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+
+  color: #5c6c5e;
+}
+
+.dir__section {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+
+.item__img {
+  width: 542px;
+  height: 542px;
+  position: relative;
+  top: 23px;
+}
+
+.item-small-last {
+  top: -310px;
+}
+
+.item-big__title-last {
+  top: 265px;
+}
+
+.item-big__text-last {
+  top: 265px;
+}
+
+.Apartments_title {
+  font-family: Raleway;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 24px;
+  leading-trim: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #5c6c5e;
+  width: 817px;
+  height: 84px;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 56px;
+}
+
+.Apartments {
+  margin-top: 112px;
+}
+
+.appartaments_photo {
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  gap: 36px;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.appartaments_photo-img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+.appartaments_photo-desc {
+  display: flex;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 270px;
+}
+.appartaments_photo-desc-text {
+  width: 396;
+  height: 56;
+  top: 4947px;
+  left: 168px;
+  angle: 0 deg;
+  opacity: 1;
+  font-family: Raleway;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 24px;
+  leading-trim: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #2b323a;
+}
+
+.special_offers_title {
+  width: 533;
+  height: 47;
+  top: 5115px;
+  left: 454px;
+  angle: 0 deg;
+  opacity: 1;
+  font-family: Raleway;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 40px;
+  leading-trim: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #2b323a;
+  margin-bottom: 56px;
+}
+
+.Special-offers {
+  margin: 0 auto;
+  margin-top: 112px;
+}
+.special-offers_desc-title-text {
+  width: 231px;
+  height: 28px;
+  angle: 0 deg;
+  opacity: 1;
+  font-family: Raleway;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 24px;
+  leading-trim: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #2b323a;
+}
+
+.special-offers_desc-title {
+  display: flex;
+  gap: 24px;
+}
+
+.special-offers_desc-invite {
+  width: 477px;
+  height: 28px;
+  top: 5311px;
+  left: 78px;
+  angle: 0 deg;
+  opacity: 1;
+  font-family: Raleway;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 24px;
+  leading-trim: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #2b323a;
+}
+
+.special-offers_desc-criteria {
+  width: 684;
+  height: 112;
+  top: 5375px;
+  left: 78px;
+  angle: 0 deg;
+  opacity: 1;
+  font-family: Raleway;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 24px;
+  leading-trim: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #2b323a;
+  margin-bottom: 0;
+}
+
+.special-offers_desc-criteria-accent {
+  color: #5c6c5e;
+  width: 215;
+  height: 28;
+  top: 5499px;
+  left: 78px;
+  angle: 0 deg;
+  opacity: 1;
+  font-family: Raleway;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 24px;
+  leading-trim: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+  font-variant: small-caps;
+  margin-bottom: 36px;
+  margin-top: 12px;
+}
+
+.special-offers_desc-wait {
+  width: 1014;
+  height: 196;
+  top: 5563px;
+  left: 78px;
+  angle: 0 deg;
+  opacity: 1;
+  font-family: Raleway;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 24px;
+  leading-trim: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #2b323a;
+  margin-bottom: 12px;
+}
+
+.special-offers_desc-wait-accent {
+  width: 377;
+  height: 28;
+  top: 5771px;
+  left: 78px;
+  angle: 0 deg;
+  opacity: 1;
+  font-family: Raleway;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 24px;
+  leading-trim: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #5c6c5e;
+  margin-top: 0;
+}
+
+.special-offers_desc-call {
+  display: flex;
+  gap: 24px;
+}
+
+.special-offers_desc-call-text {
+  width: 746;
+  height: 28;
+  angle: 0 deg;
+  opacity: 1;
+  font-family: Raleway;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 24px;
+  leading-trim: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #2b323a;
+}
+
+.special-offers_desc-call-button {
+  width: 185px;
+  height: 35px;
+  angle: 0 deg;
+  opacity: 1;
+  font-family: Raleway;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 16px;
+  leading-trim: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  width: 180;
+  height: 40;
+  angle: 0 deg;
+  opacity: 1;
+  gap: 4px;
+  border-radius: 1000px;
+  padding-top: 8px;
+  padding-right: 24px;
+  padding-bottom: 8px;
+  padding-left: 24px;
+  background-color: #2b323a;
+  color: #eae2dc;
+  text-decoration: none;
+  margin-top: 20px;
+}
+
+.special-offers_desc-title-tea {
+  margin-top: 50px;
+}
+
+.special-offers_desc-tea-text {
+  width: 986;
+  height: 84;
+  top: 6024px;
+  left: 78px;
+  angle: 0 deg;
+  opacity: 1;
+  font-family: Raleway;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 24px;
+  leading-trim: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #2b323a;
+}
+
+/* Плавное уменьшение блоков между 1200 и 901px */
+@media (max-width: 1200px) and (min-width: 901px) {
+  .dir__section {
+    gap: 20px;
+    align-items: stretch;
+  }
+
+  .dir__section > .item {
+    flex: 1 1 0;
+    min-width: 0;
+  }
+
+  .item__img {
+    width: 100%;
+    height: 100%;
+    position: static;
+    top: 0;
+    border-radius: 30px;
+  }
+
+  .item__big {
+    width: 100%;
+    height: auto;
+    min-height: 420px;
+    padding: 24px 16px;
+  }
+
+  .item-big__title,
+  .item-big__text,
+  .item-small-last,
+  .item-big__title-last,
+  .item-big__text-last {
+    width: 100%;
+    height: auto;
+    position: static;
+    top: 0;
+    left: 0;
+  }
+
+  .item-big__title {
+    font-size: 22px;
+  }
+
+  .item-big__text {
+    font-size: 20px;
+  }
+
+  .item__small {
+    position: static;
+    top: 0;
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    padding: 18px 16px;
+  }
+
+  .item-small__text {
+    width: 100%;
+    height: auto;
+    font-size: 20px;
+  }
+
+  .Apartments_title,
+  .special_offers_title,
+  .special-offers_desc-invite,
+  .special-offers_desc-criteria,
+  .special-offers_desc-wait,
+  .special-offers_desc-call-text,
+  .special-offers_desc-tea-text {
+    width: 100%;
+    height: auto;
+  }
+
+  .appartaments_photo-desc {
+    gap: 36px;
+  }
+  .item__small {
+    border: none;
+  }
+}
+
+/* Адаптив для планшетов/телефонов */
+@media (max-width: 900px) {
+  .derections-info__title {
+    width: auto;
+    height: auto;
+    font-size: 32px;
+    margin-top: 24px;
+    margin-bottom: 32px;
+  }
+
+  /* Секции с картинками/описанием */
+  .dir__section {
+    flex-direction: row;
+    gap: 16px;
+    margin-bottom: 28px;
+    align-items: stretch;
+  }
+
+  .dir__section > .item {
+    flex: 1 1 0;
+    min-width: 0;
+  }
+
+  .item__img {
+    width: 100%;
+    max-width: 542px;
+    height: 100%;
+    position: static;
+    top: 0;
+  }
+
+  .item__big {
+    width: 100%;
+    max-width: none;
+    height: auto;
+    padding: 28px 16px 24px 16px;
+    position: static;
+  }
+
+  .item__small {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    padding: 18px 16px;
+    position: static;
+    top: 0;
+  }
+
+  .item-big__title,
+  .item-big__text {
+    width: 100%;
+    height: auto;
+    position: static;
+    top: 0;
+    left: 0;
+  }
+
+  .item-big__title {
+    font-size: 20px;
+  }
+
+  .item-big__text {
+    font-size: 18px;
+  }
+
+  .item-small__text {
+    width: 100%;
+    height: auto;
+    font-size: 18px;
+  }
+
+  /* "last" варианты на ПК позиционируются через top-сдвиги */
+  .item-small-last,
+  .item-big__title-last,
+  .item-big__text-last {
+    top: 0;
+    position: static;
+  }
+
+  /* Блок Apartments */
+  .Apartments_title {
+    width: 98%;
+    height: auto;
+    font-size: 20px;
+  }
+
+  .appartaments_photo {
+    gap: 20px;
+  }
+
+  .appartaments_photo-desc {
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .appartaments_photo-desc-text {
+    width: 100%;
+    height: auto;
+    font-size: 18px;
+  }
+
+  /* Блок Special-offers */
+  .special_offers_title {
+    width: 100%;
+    height: auto;
+    font-size: 32px;
+  }
+
+  .special-offers_desc-title {
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .special-offers_desc-invite,
+  .special-offers_desc-criteria,
+  .special-offers_desc-wait,
+  .special-offers_desc-call-text,
+  .special-offers_desc-tea-text {
+    width: 100%;
+    height: auto;
+  }
+
+  .special-offers_desc-title-text {
+    width: auto;
+    height: auto;
+    font-size: 20px;
+  }
+
+  .special-offers_desc-criteria-accent,
+  .special-offers_desc-wait-accent {
+    width: auto;
+    height: auto;
+  }
+
+  .special-offers_desc-call {
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .special-offers_desc-call-button {
+    width: auto;
+    height: auto;
+    margin-top: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .item__small {
+    border: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .item__big {
+    padding: 22px 14px 18px 14px;
+  }
+
+  .item__small {
+    max-width: none;
+  }
+
+  .appartaments_photo {
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .appartaments_photo-img {
+    width: 100%;
+  }
+
+  .special_offers_title {
+    font-size: 28px;
+  }
+
+  .special-offers_desc-wait,
+  .special-offers_desc-tea-text,
+  .special-offers_desc-criteria {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 700px) {
+  .dir__section {
+    flex-direction: column;
+    gap: 24px;
+    align-items: center;
+  }
+
+  .dir__section > .item {
+    width: 100%;
+  }
+
+  /* В колонке сохраняем последовательность: карточка -> фото */
+  .dir__section:nth-child(even) > .item:first-child {
+    order: 2;
+  }
+
+  .dir__section:nth-child(even) > .item:last-child {
+    order: 1;
+  }
+}
